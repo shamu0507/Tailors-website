@@ -356,7 +356,8 @@ header .navbar{
     }
     
 
-.hero-section .section-content{
+    .hero-section .section-content{
+
     gap: 10px;
     text-align: center;
     padding: 30px 20px 20px;
@@ -375,24 +376,25 @@ header .navbar{
         max-width: 100%;
         text-align: center;
     }
-}
-.hero-section .hero-details .buttons{
+    .hero-section .hero-details .buttons{
     justify-content:center;
 }
-.hero-section .hero-image-wrapper{
+    .hero-section .hero-image-wrapper{
     max-width: 270px;
     margin-right: 0;
 }
-.about-section .section-content{
+   .about-section .section-content{
     gap:-70px;
     flex-direction: column-reverse;
 }
-.about-section .about-image-wrapper .about-image{
+   .about-section .about-image-wrapper .about-image{
     width:550px;
     height: 350px;
     max-width: 250px;
     aspect-ratio: 1;
 }
+}
+
 
 @media screen and (max-width:1024px){
     .service-section .service-list {
