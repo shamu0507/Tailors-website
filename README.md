@@ -2,6 +2,12 @@
 
 A responsive and modern tailoring website designed for **Abhi Tailors**, showcasing custom stitching services, gallery, and contact details.
 
+## 🌐 Live Demo
+
+The website is live and accessible at:  
+**https://abhitailors.netlify.app**
+
+Feel free to explore the design, services, and gallery.
 ## 🌟 Features
 
 - Responsive design (Desktop, Tablet & Mobile)
@@ -13,7 +19,7 @@ A responsive and modern tailoring website designed for **Abhi Tailors**, showcas
 - Contact form
 - Clean UI with custom color palette
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3** (Flexbox, Media Queries)
@@ -21,7 +27,7 @@ A responsive and modern tailoring website designed for **Abhi Tailors**, showcas
 - **Font Awesome** (Icons)
 - **Google Fonts**
 - 
- 📂 Project Structure
+ ## 📂 Project Structure
 
 Abhi-Tailors/
 │
@@ -33,7 +39,7 @@ Abhi-Tailors/
 │ └── icons
 
 └── README.md
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 
 1. Clone the repository:
    ```bash
@@ -45,10 +51,10 @@ Copy code
 cd abhi-tailors
 Open index.html in your browser
 
-👩‍🎨 Designed & Developed By
+## 👩‍🎨 Designed & Developed By
 Abhi Tailors Website
 Crafted with ❤️ for showcasing tailoring excellence
 
-📜 License
+## 📜 License
 This project is for learning and small business use.
 Feel free to customize it.
