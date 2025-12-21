@@ -5,4 +5,6 @@ menuOpenButton.addEventListener("click",()=>{
     document.body.classList.toggle("show-mobile-menu");
 });
 //close menu whn the close buton is clicked
-menuCloseButton.addEventListener("click", () => menuOpenButton.click());
+menuCloseButton.addEventListener("click", () => {
+     document.body.classList.remove("show-mobile-menu");
+});
